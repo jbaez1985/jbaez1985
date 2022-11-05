@@ -3,25 +3,25 @@
 
 <br/>
 
-<p align="center">🌍  I'm based in San juan, Dominican Republic 🇩o, I am always looking to achieve my goals, including new learning experiences, I love computers, video games, anime, manga, movies and I am a super fan of Marvel, I also learn new things and dream big.<p>
+<p align="center">🌍  I'm based in San juan, Dominican Republic 🇩o, I am always looking to achieve my goals, including new learning experiences, I love computers, I also learn new things and dream big.<p>
 <p align="center">My favorite overcoming phrase is: "Exceed your limits here and now"</p>
 
 <br/>
 <br/>
 
 *   ✉️  You can contact me at [Email](mailto:ing.system_jb@hotmail.com)
-<!--*   🚀  I'm currently working on [Freelancer](https://wolfgrimm.com/)-->
+*   🚀  I'm currently working on [Freelancer](https://smepdom.com/)
 *   🧠  I'm learning C#, Asp.Net, HTML, CSS, PHP, Java Script, React JS
 *   🤝  I'm open to collaborating on C#, Asp.Net Core, HTML, CSS, WordPress, Dotnet projects
-<!--*   👨‍💻 All of my projects are available at [Projects](https://wolfgrimm.com/)-->
-<!--*   📝 I regularly write articles on [Post](https://wolfgrimm.com/)-->
-<!--*   📄 Know about my experiences [know more](https://wolfgrimm.com/)-->
+*   👨‍💻 All of my projects are available at [Projects](https://smepdom.com/)
+*   📝 I regularly write articles on [Post](https://smepdom.com/)
+*   📄 Know about my experiences [know more](https://smepdom.com/)
 
 <br/>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://linkedin.com/in/miguel-angel-ferrer-wolfgrimm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel-a-ferrer-m-618b0414a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jbaez1985/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jbaez1985" height="30" width="40" /></a>
 
 </p>
 
@@ -48,8 +48,8 @@
 </p>
 <br/>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/wolfgrimm"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wolfgrimm" /></a></p><br><br>
+<!--<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/wolfgrimm"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wolfgrimm" /></a></p><br><br>-->
 
 
 
