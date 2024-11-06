@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Julio Emmanuel they all call Julio</h1>
+<h1 align="center">Hi 👋, I'm Julio Emmanuel they all call me Julio</h1>
 <h3 align="center">A passionate Developer from Dominican Republic 🇩🇴</h3>
 
 <br/>
